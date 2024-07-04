@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello Coders</h1></summary>
+    <summary><h1 style="display: inline-block">Hello to you!</h1></summary>
   </ul>
 </div>
 
@@ -16,16 +16,4 @@
 <!-- Links -->
 
 <!-- GithubStats -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Rxmainless&show_icons=true&theme=gotham" height="220" alt="GitHub stats" /></td>
-    <td><img src="https://streak-stats.demolab.com?user=Rxmainless&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /></td>
-  </tr>
 ###
-<div style="flex-basis: 48%;">  
-  <h3>Apps</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-</div>
