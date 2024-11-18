@@ -59,7 +59,6 @@ I’m dedicated to **creating efficient solutions**, **breaking systems** (for t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DMariz&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DMariz&theme=tokyonight" alt="GitHub Streak Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMariz&layout=compact&theme=tokyonight" alt="Most used Languages" height="180"/>
 </p>
 
