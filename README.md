@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-Hi there! I'm **Daniel**, a passionate QA student and tech enthusiast from **Recife, Brazil**. 🌴☀️  
+Hi there! I'm **Daniel**, from **Recife, Brazil**.  I work with quality and test automation, i'm climbing my life to upgrade my QA skills. I'm currently working in Avanade acting as QA analyst.
 I’m dedicated to **creating efficient solutions**, **breaking systems** (for testing, of course 😅), and **crafting unique experiences** in software testing and game design.  
 
 - 🎓 Currently pursuing a **Post-Graduate Certification in Agile Testing** at [CESAR School](https://www.cesar.school/).  
